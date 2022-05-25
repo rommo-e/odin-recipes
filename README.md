@@ -1,2 +1,3 @@
 # odin-recipes
 This is my first website , I'm going to write my favourite recipes
+I think that for this lesson is going to be necessary to use all the knoledge I have recently acquiared from the Odin project, it is time to create something from scratch, remember all the boilerplate of HTML, the structure of the website , how to use images and links, how to use absolute and relative paths, I'm very excited abour what is coming next. 
